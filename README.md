@@ -1,4 +1,5 @@
 #Author: mbigras
+
 A command line tool written in Ruby.
 
 Installation
