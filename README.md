@@ -1,9 +1,9 @@
-
+#Author: mbigras
 A command line tool written in Ruby.
 
 Installation
 
-git clone https://github.gapinc.com/mbigras/somecli
+git clone https://github.com/NetMerc/somecli
 cd somecli
 
 Usage examples
