@@ -42,3 +42,4 @@ hello world
 ./somecli foo bar fail 1>/dev/null
 Doing something with fail...
 ls: idontexist: No such file or directory
+
