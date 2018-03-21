@@ -1,5 +1,4 @@
-#Author: mbigras
-
+#Author mbigras
 Somecli
 
 A command line tool written in Ruby.
@@ -7,7 +6,6 @@ A command line tool written in Ruby.
 Installation
 
 git clone https://github.com/NetMerc/somecli
-
 cd somecli
 
 Usage examples
@@ -43,4 +41,3 @@ hello world
 ./somecli foo bar fail 1>/dev/null
 Doing something with fail...
 ls: idontexist: No such file or directory
-
