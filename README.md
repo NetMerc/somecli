@@ -1,11 +1,12 @@
 #Author: mbigras
 
+Somecli
+
 A command line tool written in Ruby.
 
 Installation
 
 git clone https://github.com/NetMerc/somecli
-
 cd somecli
 
 Usage examples
